@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "fFf",
+    "   "
+  ],
+  "key": {
+    "f": {
+      "item": "hbsutilitymod:fluorite_gem"
+    },
+    "F": {
+      "item": "hbsutilitymod:fluorite_plate"
+    }
+  },
+  "result": {
+    "item": "hbsutilitymod:fluorite_helmet",
+    "count": 1
+  }
+}

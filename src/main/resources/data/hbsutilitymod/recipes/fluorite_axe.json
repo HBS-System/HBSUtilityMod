@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " FF",
+    " IF",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:stick"
+    },
+    "F": {
+      "item": "hbsutilitymod:fluorite_gem"
+    }
+  },
+  "result": {
+    "item": "hbsutilitymod:fluorite_axe",
+    "count": 1
+  }
+}

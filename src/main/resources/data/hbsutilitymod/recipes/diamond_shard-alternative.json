@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    " X ",
+    "   "
+  ],
+  "key": {
+    "X": {
+      "item": "hbsutilitymod:diamond_chunk"
+    }
+  },
+  "result": {
+    "item": "hbsutilitymod:diamond_shard",
+    "count": 4
+  }
+}

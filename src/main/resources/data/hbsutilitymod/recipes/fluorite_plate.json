@@ -1,0 +1,17 @@
+
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hbsutilitymod:fluorite_gem",
+      "count": 2
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "hbsutilitymod:fluorite_plate",
+    "count": 1
+  }
+}

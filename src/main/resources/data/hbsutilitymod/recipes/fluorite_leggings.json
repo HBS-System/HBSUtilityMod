@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FFF",
+    "F F",
+    "F F"
+  ],
+  "key": {
+    "F": {
+      "item": "hbsutilitymod:fluorite_plate"
+    }
+  },
+  "result": {
+    "item": "hbsutilitymod:fluorite_leggings",
+    "count": 1
+  }
+}

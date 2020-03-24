@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hbsutilitymod:compressed_coal_block"
+    }
+  ],
+  "result": {
+    "item": "hbsutilitymod:compressed_coal",
+    "count": 9
+  }
+}

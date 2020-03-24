@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "hbsutilitymod:fluorite_gem"
+    }
+  },
+  "result": {
+    "item": "hbsutilitymod:fluorite_block",
+    "count": 1
+  }
+}

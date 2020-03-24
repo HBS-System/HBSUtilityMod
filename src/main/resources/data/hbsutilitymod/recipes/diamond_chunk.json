@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "hbsutilitymod:compressed_coal"
+    },
+    "X": {
+      "item": "hbsutilitymod:compression_plate"
+    }
+  },
+  "result": {
+    "item": "hbsutilitymod:diamond_chunk",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+
+	"item.hbsutilitymod.compression_plate": "Compression Plate",
+	"item.hbsutilitymod.compressed_coal": "Compressed Coal",
+	"block.hbsutilitymod.compressed_coal_block": "Block of Compressed Coal",
+	"item.hbsutilitymod.diamond_shard": "Diamond Shard",
+	"item.hbsutilitymod.diamond_chunk": "Diamond Chunk",
+	"block.hbsutilitymod.fluorite_ore": "Fluorite Ore",
+	"block.hbsutilitymod.fluorite_block": "Block of Fluorite",
+	"item.hbsutilitymod.fluorite_gem": "Fluorite",
+	"item.hbsutilitymod.fluorite_plate": "Fluorite Plate",
+	"item.hbsutilitymod.fluorite_sword": "Fluorite Sword",
+	"item.hbsutilitymod.fluorite_pickaxe": "Fluorite Pickaxe",
+	"item.hbsutilitymod.fluorite_axe": "Fluorite Axe",
+	"item.hbsutilitymod.fluorite_shovel": "Fluorite Shovel",
+	"item.hbsutilitymod.fluorite_hoe": "Fluorite Hoe",
+	"item.hbsutilitymod.fluorite_helmet": "Fluorite Helmet",
+	"item.hbsutilitymod.fluorite_chestplate": "Fluorite Chestplate",
+	"item.hbsutilitymod.fluorite_leggings": "Fluorite Leggings",
+	"item.hbsutilitymod.fluorite_boots": "Fluorite Boots"
+
+}
