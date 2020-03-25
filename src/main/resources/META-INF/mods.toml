@@ -2,7 +2,7 @@ modLoader="javafml" #mandatory
 
 loaderVersion="[28,)" #mandatory (28 is current forge version)
 
-#issueTrackerURL="http://my.issue.tracker/" 
+#issueTrackerURL="N/A" 
 #None available ^^
 
 [[mods]] #mandatory
@@ -13,10 +13,10 @@ version="0.2.1"
 
 displayName="Heart-Broken Souls Utility Mod"
 
-#updateJSONURL=""
+#updateJSONURL="N/A"
 #None available ^^
 
-#displayURL=""
+#displayURL="N/A"
 #None available ^^
 
 #logoFile="N/A"

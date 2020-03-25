@@ -119,9 +119,9 @@ public class Main
 				
 				BlockList.compressed_coal_block = new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(9.0f, 9.0f).harvestLevel(2).harvestTool(ToolType.PICKAXE).lightValue(0).sound(SoundType.STONE)).setRegistryName(location("compressed_coal_block")),
 
-				BlockList.fluorite_ore = new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(4.0f, 3.0f).harvestLevel(3).harvestTool(ToolType.PICKAXE).sound(SoundType.STONE)).setRegistryName(location("fluorite_ore")),
+				BlockList.fluorite_ore = new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(4.0f, 3.0f).harvestLevel(2).harvestTool(ToolType.PICKAXE).sound(SoundType.STONE)).setRegistryName(location("fluorite_ore")),
 
-				BlockList.fluorite_block = new Block(Block.Properties.create(Material.GLASS).hardnessAndResistance(5.0f, 5.0f).harvestLevel(3).harvestTool(ToolType.PICKAXE).lightValue(3).sound(SoundType.METAL)).setRegistryName(location("fluorite_block"))				
+				BlockList.fluorite_block = new Block(Block.Properties.create(Material.GLASS).hardnessAndResistance(5.0f, 5.0f).harvestLevel(2).harvestTool(ToolType.PICKAXE).lightValue(3).sound(SoundType.METAL)).setRegistryName(location("fluorite_block"))				
 
 			);
 			

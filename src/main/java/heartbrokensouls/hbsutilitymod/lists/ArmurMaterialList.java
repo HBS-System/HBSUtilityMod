@@ -17,7 +17,7 @@ public enum ArmurMaterialList implements IArmorMaterial
 	//4. Sets the item used to repair the armur.
 	//5. The sound that plays when you equip armur.
 	//6. Toughness of said armur.
-	FLUORITE("hbsutilitymod:fluorite", 38, new int[]{4, 7, 9, 4}, 15, ItemList.fluorite_plate, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 2.6F);
+	FLUORITE("hbsutilitymod:fluorite", 38, new int[]{4, 7, 9, 4}, 15, ItemList.fluorite_plate, SoundEvents.ITEM_ARMOR_EQUIP_DIAMOND, 2.5F);
 	/*
 	Diamond levels:
 	

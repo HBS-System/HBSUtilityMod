@@ -1,17 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " F ",
-    " F ",
-    " I "
+    "F",
+    "F",
+    "I"
   ],
   "key": {
-    "I": {
-      "item": "minecraft:stick"
-    },
-    "F": {
-      "item": "hbsutilitymod:fluorite_gem"
-    }
+    "I": {"item": "minecraft:stick"},
+    "F": {"item": "hbsutilitymod:fluorite_gem"}
   },
   "result": {
     "item": "hbsutilitymod:fluorite_sword",
