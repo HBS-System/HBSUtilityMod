@@ -7,7 +7,7 @@ import net.minecraft.item.crafting.Ingredient;
 
 public enum ToolMaterials implements IItemTier
 {
-	FLUORITE(2.5f, 9.0f, 1756, 3, 13, ItemList.fluorite_gem);
+	FLUORITE(2.5f, 9.0f, 1756, 3, 13, ItemList.fluorite_ingot);
 	
 	private final float attackDamage, efficiency;
 	private final int durability, harvestLevel, enchantability;

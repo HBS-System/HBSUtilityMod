@@ -11,4 +11,6 @@ public class BlockList
 	
 	public static Block fluorite_block;
 	
+	public static Block fluorite_ingot_block;
+	
 }

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    " I ",
+    " F "
+  ],
+  "key": {
+    "F": {"item": "hbsutilitymod:fluorite_gem"},
+    "I": {"item": "minecraft:iron_ingot"}
+  },
+  "result": {
+    "item": "hbsutilitymod:fluorite_ingot",
+    "count": 1
+  }
+}

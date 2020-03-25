@@ -7,7 +7,7 @@
   ],
   "key": {
     "I": {"item": "minecraft:stick"},
-    "F": {"item": "hbsutilitymod:fluorite_gem"}
+    "F": {"item": "hbsutilitymod:fluorite_ingot"}
   },
   "result": {
     "item": "hbsutilitymod:fluorite_axe",

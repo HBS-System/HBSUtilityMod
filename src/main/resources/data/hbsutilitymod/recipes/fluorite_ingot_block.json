@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "FFF",
-    "F F",
-    "F F"
+    "###",
+    "###",
+    "###"
   ],
   "key": {
-    "F": {
+    "#": {
       "item": "hbsutilitymod:fluorite_ingot"
     }
   },
   "result": {
-    "item": "hbsutilitymod:fluorite_leggings",
+    "item": "hbsutilitymod:fluorite_ingot_block",
     "count": 1
   }
 }

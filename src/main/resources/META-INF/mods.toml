@@ -9,7 +9,7 @@ loaderVersion="[28,)" #mandatory (28 is current forge version)
 
 modId="hbsutilitymod" #mandatory
 
-version="0.2.1" 
+version="0.3.0" 
 
 displayName="Heart-Broken Souls Utility Mod"
 

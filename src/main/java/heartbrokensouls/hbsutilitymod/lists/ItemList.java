@@ -21,7 +21,9 @@ public class ItemList
 	
 	public static Item fluorite_gem;
 	
-	public static Item fluorite_plate;
+	public static Item fluorite_ingot_block;
+	
+	public static Item fluorite_ingot;
 	
 	public static Item fluorite_sword;
 	

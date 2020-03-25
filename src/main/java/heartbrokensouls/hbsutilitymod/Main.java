@@ -81,10 +81,12 @@ public class Main
 				ItemList.fluorite_ore = new BlockItem(BlockList.fluorite_ore, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)).setRegistryName(BlockList.fluorite_ore.getRegistryName()),
 										
 				ItemList.fluorite_block = new BlockItem(BlockList.fluorite_block, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)).setRegistryName(BlockList.fluorite_block.getRegistryName()),
+				
+				ItemList.fluorite_ingot_block = new BlockItem(BlockList.fluorite_ingot_block, new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)).setRegistryName(BlockList.fluorite_ingot_block.getRegistryName()),
 						
 				ItemList.fluorite_gem = new Item(new Item.Properties().group(ItemGroup.MATERIALS)).setRegistryName(location("fluorite_gem")),
 						
-				ItemList.fluorite_plate = new Item(new Item.Properties().group(ItemGroup.MATERIALS)).setRegistryName(location("fluorite_plate")),
+				ItemList.fluorite_ingot = new Item(new Item.Properties().group(ItemGroup.MATERIALS)).setRegistryName(location("fluorite_ingot")),
 				
 				ItemList.fluorite_sword = new SwordItem(ToolMaterials.FLUORITE, 3, -2.4f, new Item.Properties().group(ItemGroup.COMBAT)).setRegistryName(location("fluorite_sword")),
 				
@@ -121,7 +123,9 @@ public class Main
 
 				BlockList.fluorite_ore = new Block(Block.Properties.create(Material.ROCK).hardnessAndResistance(4.0f, 3.0f).harvestLevel(2).harvestTool(ToolType.PICKAXE).sound(SoundType.STONE)).setRegistryName(location("fluorite_ore")),
 
-				BlockList.fluorite_block = new Block(Block.Properties.create(Material.GLASS).hardnessAndResistance(5.0f, 5.0f).harvestLevel(2).harvestTool(ToolType.PICKAXE).lightValue(3).sound(SoundType.METAL)).setRegistryName(location("fluorite_block"))				
+				BlockList.fluorite_block = new Block(Block.Properties.create(Material.GLASS).hardnessAndResistance(5.5f, 5.0f).harvestLevel(2).harvestTool(ToolType.PICKAXE).lightValue(2).sound(SoundType.STONE)).setRegistryName(location("fluorite_block")),			
+
+				BlockList.fluorite_ingot_block = new Block(Block.Properties.create(Material.IRON).hardnessAndResistance(7.5f, 7.0f).harvestLevel(3).harvestTool(ToolType.PICKAXE).lightValue(5).sound(SoundType.METAL)).setRegistryName(location("fluorite_ingot_block"))				
 
 			);
 			
